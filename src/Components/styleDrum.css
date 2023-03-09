@@ -1,0 +1,18 @@
+body {
+  background-color: #696767;
+}
+div {
+  margin-left: 5%;
+  margin-top: 18%;
+}
+button {
+  font-size: 30px;
+  width: 30%;
+  background-color: #423a39;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+}
+button:hover {
+  background-color: #534b4b;
+}
